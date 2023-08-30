@@ -50,7 +50,7 @@
 }
 .pictorial-news-section{
 	background: white;
-	align-items: center;
+	text-align: center;
 	border-radius: 10px;
 	padding-top: 10px;
 }
@@ -58,12 +58,11 @@
 	background: white;
 	text-align: center;
 	border-radius: 10px;
-	width: 200px;
-	height: 120px;
+	
+	
 }
 .pictorial-news-section img{
 	
-	display: block;
-	align-items: center;
 	background: white;
+	text-align: center;
 }
